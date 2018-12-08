@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[尝试建立第二篇文章]]></title>
+    <url>%2F2018%2F12%2F09%2F%E5%B0%9D%E8%AF%95%E5%BB%BA%E7%AB%8B%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%2F</url>
+    <content type="text"><![CDATA[看看这篇文章会不会被发到地址上]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[这是一段新的旅程]]></title>
     <url>%2F2018%2F12%2F08%2F%E8%BF%99%E6%98%AF%E4%B8%80%E6%AE%B5%E6%96%B0%E7%9A%84%E6%97%85%E7%A8%8B%2F</url>
     <content type="text"><![CDATA[开启这是第一篇文章 列表1 列表2 a 字母表 百度链接斜的字体加粗的字体 以下用于引入单行代码块&lt;html&gt;&lt;/html&gt;以下用于引入多行代码块12345&lt;html&gt; &lt;head&gt; &lt;title&gt;&lt;/title&gt; &lt;/head&gt;&lt;/html&gt; 我引用了这句话]]></content>
