@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[尝试建立第二篇文章]]></title>
-    <url>%2F2018%2F12%2F09%2F%E5%B0%9D%E8%AF%95%E5%BB%BA%E7%AB%8B%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%2F</url>
-    <content type="text"><![CDATA[看看这篇文章会不会被发到地址上]]></content>
+    <title><![CDATA[计算机组成原理-1]]></title>
+    <url>%2F2018%2F12%2F09%2F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86--%E7%AC%AC1~4%E7%AB%A0%E5%A4%8D%E4%B9%A0%2F</url>
+    <content type="text"><![CDATA[计算机组成原理1-4章节复习第一章 计算机系统概论 一、冯诺依曼计算机的特点1.冯诺依曼计算机结构框图2.现代计算机组成框图 二、计算机的工作过程0.概念补充 - 机器字长：CPU一次能处理的数据位数 - 存储容量：主存中存放二进制代码的总位数(存储单元个数×存储字长) - 运算速度：单位时间内执行指令的平均条数(MIPS: Million Instruction Per Second)等 1.主存储器 - 存储元件：每个存储元件能寄存一位二进制“0”或“1” - 存储单元：可储存一串二进制代码，这串二进制代码为一个存储字(位数为字长) 为了实现按地址访问的方式，主存中必须配置两个寄存器MAR和MDR - MAR：Memory Address Register - MDR：Memory Data Register - MAR/MDR的位数：对应存储单元的个数（10位对应2^10个存储单元，记为1K） 为了适应指令和数据字长的可变性，长度不再由存储字长确定，而由字节(1Byte = 8bit)的整数倍确定2.运算器 最少包含三个寄存器和一个算数逻辑单元(ALU) - ACC：Accumulator累加器 - MQ：Multiplier-Quotient Register乘商寄存器 - X：操作数寄存器 基本计算 3.控制器 由程序计数器、指令寄存器和控制单元组成 - PC：Program Counter - IR：Instruction Register - CU]]></content>
+      <categories>
+        <category>基础知识</category>
+      </categories>
+      <tags>
+        <tag>记忆</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[这是一段新的旅程]]></title>
